@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: daveconde
+  repo: cjxd10-go-http
+  url: https://github.com/daveconde/cjxd10-go-http.git
+  version: ""
+  versionURL: ""
